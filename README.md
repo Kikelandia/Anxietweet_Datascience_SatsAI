@@ -13,4 +13,3 @@ Such exploration belongs to the efforts of the "Green Team" integrated by:
   Jonathan Chávez(Desarrollador Web - Development)
     Mentor:
     Inés Calderón Zetter (Ing. Computación)
-    
