@@ -5,11 +5,11 @@ This data science effort was accomplished during the Saturdays AI latin american
 
 Such exploration belongs to the efforts of the "Green Team" integrated by:
 
-  Christian Rodríguez (Ing. Cálculos cuánticos materiales – Data Scientist)
-  Elías Garcés (Ing. Civil – Project Manager)
-  Daniela Gómez (Ing. Industrial, en Sistemas – Data Scientist)
-  Enrique Ramos García(Lic. en Matemáticas – Data Scientist)
-  Fernando Vizcarra Salva( Ing. Mecatrónico – Data Scientist)
-  Jonathan Chávez(Desarrollador Web - Development)
-    Mentor:
+  Christian Rodríguez (Ing. Cálculos cuánticos materiales – Data Scientist)  
+  Elías Garcés (Ing. Civil – Project Manager)  
+  Daniela Gómez (Ing. Industrial, en Sistemas – Data Scientist)  
+  Enrique Ramos García(Lic. en Matemáticas – Data Scientist)  
+  Fernando Vizcarra Salva( Ing. Mecatrónico – Data Scientist)  
+  Jonathan Chávez(Desarrollador Web - Development)  
+    Mentor:  
     Inés Calderón Zetter (Ing. Computación)
